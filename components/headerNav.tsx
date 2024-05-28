@@ -9,7 +9,7 @@ export const HeaderNav = () => {
                     className="cursor-pointer font-sans text-xl font-semibold "
                     href={"/"}
                 >
-                    StoryTale
+                    Story/Tale
                 </Link>
             </div>
 
